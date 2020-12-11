@@ -19,3 +19,10 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::view('api/vue', [App\Http\Controllers\TestingVueController::class, 'index']);
+
+//Route::get('/posts', function(){
+//    $post = \App\Models\Post::create(['title'=>'my first post', 'content'=>'some content here']);
+//    return $post;
+//});
+
+Route::resource('posts', \App\Http\Controllers\PostController::class);

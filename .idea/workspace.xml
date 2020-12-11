@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc55a6fc-5f67-4147-836f-a862d37c039b" name="Default Changelist" comment="" />
+    <list default="true" id="fc55a6fc-5f67-4147-836f-a862d37c039b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -141,6 +147,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jxwVc201nsLSfjmDzfeNrN6zfm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -194,6 +201,8 @@
       <workItem from="1606051362152" duration="2357000" />
       <workItem from="1606057655379" duration="619000" />
       <workItem from="1606223020481" duration="5578000" />
+      <workItem from="1607689019176" duration="165000" />
+      <workItem from="1607690099646" duration="3708000" />
     </task>
     <servers />
   </component>
